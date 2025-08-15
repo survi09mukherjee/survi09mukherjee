@@ -23,7 +23,7 @@ Based in Durgapur, I am a B.Tech CSE student graduating in 2026. I've participat
 👥 **Followers**: 1  
 👤 **Following**: 0  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=survi09mukherjee&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=survi09mukherjee&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
