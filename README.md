@@ -19,7 +19,7 @@ Based in Durgapur, I am a B.Tech CSE student graduating in 2026. I've participat
 [![Machine Learning Projects](https://github-readme-stats.vercel.app/api/pin/?username=survi09mukherjee&repo=machine-learning-cognifyz-technologies&theme=dark)](https://github.com/survi09mukherjee/machine-learning-cognifyz-technologies)
 
 ## GitHub Stats
-✨ **Public Repositories**: 79  
+✨ **Public Repositories**: 72  
 👥 **Followers**: 1  
 👤 **Following**: 0  
 
