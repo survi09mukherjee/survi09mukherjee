@@ -1,6 +1,24 @@
 ## Hi there! 👋
 
 I'm Survi Mukherjee, a passionate Full-Stack Developer with a keen interest in AI/ML. Currently pursuing my B.Tech in Computer Science and Engineering at BCREC, I'm enthusiastic about building impactful software solutions and exploring new technologies.
+<p align="center" style="
+  background: linear-gradient(135deg, #c7a17a, #f2e4d2);
+  border: 8px ridge #b68c5a;
+  border-radius: 20px;
+  padding: 15px;
+  display: inline-block;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+">
+  <img src="https://github.com/user-attachments/assets/1e83a37e-c8d4-43a0-b352-9c1ae1d4eadc"
+       alt="Image 1"
+       width="260"
+       style="margin: 10px; border-radius: 12px; border: 3px solid #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" />
+  <img src="https://github.com/user-attachments/assets/dc427a52-5c41-48da-9b6c-223f1e59fa76"
+       alt="Image 2"
+       width="260"
+       style="margin: 10px; border-radius: 12px; border: 3px solid #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" />
+</p>
+
 
 ## About Me
 
