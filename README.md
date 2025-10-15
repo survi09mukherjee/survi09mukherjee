@@ -19,9 +19,8 @@ Based in Durgapur, I am a B.Tech CSE student graduating in 2026. I've participat
 [![Machine Learning Projects](https://github-readme-stats.vercel.app/api/pin/?username=survi09mukherjee&repo=machine-learning-cognifyz-technologies&theme=dark)](https://github.com/survi09mukherjee/machine-learning-cognifyz-technologies)
 
 ## GitHub Stats
-✨ **Public Repositories**: 72  
-👥 **Followers**: 1  
-👤 **Following**: 0  
+✨ **Public Repositories**: 77 
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=survi09mukherjee&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -40,7 +39,7 @@ https://survimukherjee.blogspot.com/   Look into my Blog...
 
 ## Publications
 
-- [Real Time Helmet and Car Number Plate Detection for Enhanced Traffic Monitoring](https://github.com/survi09mukherjee/Smart-Traffic-Sentinels) - IEEE CIACON Conference, 2025
+- [Real Time Helmet and Car Number Plate Detection for Enhanced Traffic Monitoring](https://github.com/survi09mukherjee/Smart-Traffic-Sentinels) - IEEE CIACON Conference, 2025. You can view the paper in [Real Time Helmet and Car Number Plate Detection for Enhanced Traffic Monitoring](https://ieeexplore.ieee.org/document/11189662/keywords#keywords)
 
 ## Connect with Me
 
