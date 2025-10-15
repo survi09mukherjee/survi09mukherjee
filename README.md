@@ -1,6 +1,9 @@
 ## Hi there! 👋
 
 I'm Survi Mukherjee, a passionate Full-Stack Developer with a keen interest in AI/ML. Currently pursuing my B.Tech in Computer Science and Engineering at BCREC, I'm enthusiastic about building impactful software solutions and exploring new technologies.
+
+You can explore more about my professional background in: [Survi Mukherjee Resume.pdf](https://github.com/user-attachments/files/22932041/Survi.Mukherjee.Resume.pdf)
+
 <p align="center" style="
   background: linear-gradient(135deg, #c7a17a, #f2e4d2);
   border: 8px ridge #b68c5a;
