@@ -2,8 +2,6 @@
 
 I'm Survi Mukherjee, a passionate Full-Stack Developer with a keen interest in AI/ML. Currently pursuing my B.Tech in Computer Science and Engineering at BCREC, I'm enthusiastic about building impactful software solutions and exploring new technologies.
 
-You can explore more about my professional background in: [Survi Mukherjee Resume.pdf](https://github.com/user-attachments/files/22932041/Survi.Mukherjee.Resume.pdf)
-
 <p align="center" style="
   background: linear-gradient(135deg, #c7a17a, #f2e4d2);
   border: 8px ridge #b68c5a;
@@ -27,6 +25,14 @@ You can explore more about my professional background in: [Survi Mukherjee Resum
 
 Based in Durgapur, I am a B.Tech CSE student graduating in 2026. I've participated in several hackathons and competitions, securing 2nd place at the IT Expo (CSI & dCode) and being a finalist at DoubleSlash 3.0 (JU). I'm also actively involved with GDG Durgapur and have experience in IoT projects.
 
+You can explore more about my professional background in: 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/841b1c23-919c-4597-8f29-0223a3dad23e" 
+       alt="Survi Mukherjee Resume"
+       width="700" 
+       style="border: 4px solid #555; border-radius: 15px; box-shadow: 0 0 20px rgba(0,0,0,0.4);" />
+</p>
+
 ## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,django,flask,ai,git,github,mongodb,aws,anaconda,arduino,azure,bash,c,codepen,dotnet,firebase,flutter,figma,githubactions,gmail,java,js,kubernetes,latex,linkedin,linux,mysql,netlify,nextjs,opencv,php,pycharm,pytorch,py,replit,sqlite,stackoverflow,sklearn,selenium,solidity,tailwind,tensorflow,ubuntu,vercel,visualstudio,vite,vscode,yarn&perline=8)](https://skillicons.dev)
@@ -38,6 +44,10 @@ Based in Durgapur, I am a B.Tech CSE student graduating in 2026. I've participat
 [![Neo Venue](https://github-readme-stats.vercel.app/api/pin/?username=survi09mukherjee&repo=combned-project&theme=dark)](https://github.com/survi09mukherjee/combned-project)
 [![Smart Traffic Sentinels](https://github-readme-stats.vercel.app/api/pin/?username=survi09mukherjee&repo=Smart-Traffic-Sentinels&theme=dark)](https://github.com/survi09mukherjee/Smart-Traffic-Sentinels)
 [![Machine Learning Projects](https://github-readme-stats.vercel.app/api/pin/?username=survi09mukherjee&repo=machine-learning-cognifyz-technologies&theme=dark)](https://github.com/survi09mukherjee/machine-learning-cognifyz-technologies)
+
+## Go through my Portfolio
+
+[🎉🥳✨Enjoy Exploring My Portfolio🎉🥳✨...](https://survimukherjeeportfolio.framer.website/)   
 
 ## GitHub Stats
 ✨ **Public Repositories**: 77 
