@@ -47,7 +47,7 @@ You can explore more about my professional background in:
 
 ## Go through my Portfolio
 
-[🎉🥳✨Enjoy Exploring My Portfolio🎉🥳✨...](https://survimukherjeeportfolio.framer.website/)   
+[🎉🥳✨Enjoy Exploring My Portfolio🎉🥳✨...](https://survimukherjeeportfolio.lovable.app/)   
 
 ## GitHub Stats
 ✨ **Public Repositories**: 77 
